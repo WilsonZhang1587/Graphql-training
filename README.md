@@ -1,4 +1,4 @@
-## Graphql-server(apollo-server) 各種練習
+# Graphql-server(apollo-server) 各種練習
 
 ## 包含各種方向
 ### 結合 node.js - express
